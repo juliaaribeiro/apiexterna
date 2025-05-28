@@ -22,4 +22,3 @@ npm start
 
 ---
 
-Feito com 💙 por você!
